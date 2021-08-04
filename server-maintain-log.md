@@ -1,4 +1,4 @@
-# 伺服器更新日誌
+# 伺服器維護日誌
 
 [![hackmd-github-sync-badge](https://hackmd.io/6all3-thSN6ITI5STobGxg/badge)](https://hackmd.io/6all3-thSN6ITI5STobGxg)
 

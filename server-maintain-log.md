@@ -1,5 +1,7 @@
 # 伺服器更新日誌
 
+[![hackmd-github-sync-badge](https://hackmd.io/6all3-thSN6ITI5STobGxg/badge)](https://hackmd.io/6all3-thSN6ITI5STobGxg)
+
 ## 維護排程預告
 
 ### 🔴 2021/08/05 00:30 ~ 2021/08/05 01:30 CST

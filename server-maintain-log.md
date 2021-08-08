@@ -2,7 +2,22 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/6all3-thSN6ITI5STobGxg/badge)](https://hackmd.io/6all3-thSN6ITI5STobGxg)
 
+## 定期維護
+
+### 🟢 R1-資源一服 每周一零點定期刷新
+
+#### #1 2021/08/08 00:00
+
+- 🚧 **影響**
+  - `R-1`
+- ⏰ **耗時**
+  - 15 分鐘
+- 📑 **事由**
+  - 資源服刷新
+
 ## 維護排程預告
+
+### 暫無
 
 ## 過去的維護
 

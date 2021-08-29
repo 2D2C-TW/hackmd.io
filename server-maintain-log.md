@@ -1,6 +1,17 @@
 # 伺服器維護日誌
+[![hackmd-github-sync-badge](https://hackmd.io/6all3-thSN6ITI5STobGxg/badge)](https://hackmd.io/6all3-thSN6ITI5STobGxg) [![2d2c-discord](https://badgen.net/discord/members/2d2c)](https://discord.gg/2d2c)
 
-[![hackmd-github-sync-badge](https://hackmd.io/6all3-thSN6ITI5STobGxg/badge)](https://hackmd.io/6all3-thSN6ITI5STobGxg)
+## 伺服器狀態 [![status](https://badgen.net/uptime-robot/status/ur1372305-af90c383417375fc57522eb0)](https://status.2d2c.org) [![24h-uptime](https://badgen.net/uptime-robot/day/ur1372305-af90c383417375fc57522eb0)](https://status.2d2c.org)
+
+:::spoiler 主入口主機 `mc.2d2c.org`
+[![status](https://badgen.net/uptime-robot/status/m788686890-1c7de12ab6a67e885a4ca7db)](https://status.2d2c.org) [![24h-uptime](https://badgen.net/uptime-robot/day/m788686890-1c7de12ab6a67e885a4ca7db)](https://status.2d2c.org) [![response-form-usa](https://badgen.net/uptime-robot/response/m788686890-1c7de12ab6a67e885a4ca7db)](https://status.2d2c.org)
+:::
+:::spoiler 副入口主機 `mc2.2d2c.org`
+[![status](https://badgen.net/uptime-robot/status/m788686904-3542d91c79fc8c9ffca59c4f)](https://status.2d2c.org) [![24h-uptime](https://badgen.net/uptime-robot/day/m788686904-3542d91c79fc8c9ffca59c4f)](https://status.2d2c.org) [![response-form-usa](https://badgen.net/uptime-robot/response/m788686904-3542d91c79fc8c9ffca59c4f)](https://status.2d2c.org)
+:::
+:::spoiler 後端主機 
+[![status](https://badgen.net/uptime-robot/status/m788686910-d8c4afbddfaedf13b186f861)](https://status.2d2c.org) [![24h-uptime](https://badgen.net/uptime-robot/day/m788686910-d8c4afbddfaedf13b186f861)](https://status.2d2c.org) [![response-form-usa](https://badgen.net/uptime-robot/response/m788686910-d8c4afbddfaedf13b186f861)](https://status.2d2c.org)
+:::
 
 ## 定期維護
 
